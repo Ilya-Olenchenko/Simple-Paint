@@ -1,0 +1,31 @@
+﻿  Line.cpp
+  WindowsProject1.cpp
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(17,8): warning C4273: PaintLibrary::newPoint: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(23,25): message : см. предыдущее определение "newPoint"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(26,19): warning C4273: PaintLibrary::CShape::getColor: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(42,29): message : см. предыдущее определение "getColor"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(31,14): warning C4273: PaintLibrary::CShape::getSize: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(43,24): message : см. предыдущее определение "getSize"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(36,15): warning C4273: PaintLibrary::CShape::setType: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(41,25): message : см. предыдущее определение "setType"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(41,16): warning C4273: PaintLibrary::CShape::getDimens: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(44,26): message : см. предыдущее определение "getDimens"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(52,15): warning C4273: PaintLibrary::CShape::setDimens: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(45,25): message : см. предыдущее определение "setDimens"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(60,15): warning C4273: PaintLibrary::CShape::setColor: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(46,25): message : см. предыдущее определение "setColor"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(66,14): warning C4273: PaintLibrary::CShape::getPenStyle: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(47,24): message : см. предыдущее определение "getPenStyle"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(72,14): warning C4273: PaintLibrary::CLine::SetData: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(56,25): message : см. предыдущее определение "SetData"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(85,14): warning C4273: PaintLibrary::CLine::Draw: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(54,26): message : см. предыдущее определение "Draw"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(91,17): warning C4273: PaintLibrary::CLine::Create: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(55,28): message : см. предыдущее определение "Create"
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\WindowsProject1.cpp(96,19): warning C4273: PaintLibrary::CLine::getType: несовместимое связывание dll
+C:\Users\user\Desktop\WindowsProject1\WindowsProject1\DLL.h(57,30): message : см. предыдущее определение "getType"
+  Shape.cpp
+  stdafx.cpp
+  Создание кода...
+     Создается библиотека C:\Users\user\Desktop\WindowsProject1\x64\Debug\WindowsProject1.lib и объект C:\Users\user\Desktop\WindowsProject1\x64\Debug\WindowsProject1.exp
+  WindowsProject1.vcxproj -> C:\Users\user\Desktop\WindowsProject1\x64\Debug\WindowsProject1.exe
